@@ -17,7 +17,6 @@ Le projet **Gestion Club Sportif** est une application Java utilisant **Maven** 
 
 ✅ Gestion des adhérents : Ajouter, modifier, supprimer les membres du club  
 ✅ Gestion des sports :  Ajouter, modifier, supprimer les membres du club 
----
 
 ### 🛠 Installation et exécution  
 1️⃣ **Cloner le projet**  
